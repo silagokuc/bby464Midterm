@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:publisher="http://www.silagokuc.yok/publisher#">
+
+<rdf:Description
+rdf:about="http://www.silagokuc.yok/publisher/10">
+  <publisher:name>Houghton Mifflin</publisher:name>
+  <publisher:year>1880</publisher:year>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.silagokuc.yok/publisher/20">
+ <publisher:name>Kirmizi Kedi</publisher:name>
+ <publisher:year>2008</publisher:year>
+</rdf:Description>
+
+    <rdf:Description
+rdf:about="http://www.silagokuc.yok/publisher/30">
+ <publisher:name>Cem Yayınevi</publisher:name>
+ <publisher:year>1964</publisher:year>
+</rdf:Description>
+    
+    <rdf:Description
+rdf:about="http://www.silagokuc.yok/publisher/40">
+ <publisher:name>Türkiye İş Bankası Kültür Yayınları</publisher:name>
+ <publisher:year>1956</publisher:year>
+</rdf:Description>
+    
+    <rdf:Description
+rdf:about="http://www.silagokuc.yok/publisher/50">
+ <publisher:name>Destek Yayınları</publisher:name>
+ <publisher:year>2006</publisher:year>
+</rdf:Description>
+
+        <rdf:Description
+rdf:about="http://www.silagokuc.yok/publisher/60">
+ <publisher:name>Pmr Yayınları</publisher:name>
+ <publisher:year>2000</publisher:year>
+</rdf:Description>
+    
+        <rdf:Description
+rdf:about="http://www.silagokuc.yok/publisher/70">
+ <publisher:name>Helikopter Yayınevi</publisher:name>
+ <publisher:year>2008</publisher:year>
+</rdf:Description>
+    
+        <rdf:Description
+rdf:about="http://www.silagokuc.yok/publisher/80">
+ <publisher:name>Workman Publishing</publisher:name>
+ <publisher:year>1968</publisher:year>
+</rdf:Description>
+
+            <rdf:Description
+rdf:about="http://www.silagokuc.yok/publisher/90">
+ <publisher:name>Can Yayınları</publisher:name>
+ <publisher:year>1968</publisher:year>
+</rdf:Description>
+    
+            <rdf:Description
+rdf:about="http://www.silagokuc.yok/publisher/100">
+ <publisher:name>Everest Yayınları</publisher:name>
+ <publisher:year>2000</publisher:year>
+</rdf:Description>
+
+
+</rdf:RDF>

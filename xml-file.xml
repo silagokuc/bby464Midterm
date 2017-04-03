@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xml-file.xsl"?>
+<publishers>
+    <publisher>
+     <publisherID>10</publisherID>
+     <publisherName>Houghton Mifflin</publisherName>
+     <publisherYear>1880</publisherYear>
+   </publisher>
+
+    <publisher>
+     <publisherID>20</publisherID>
+     <publisherName>Kirmizi Kedi</publisherName>
+     <publisherYear>2008</publisherYear>
+   </publisher>
+    
+   <publisher>
+     <publisherID>30</publisherID>
+     <publisherName>Cem Yayınevi</publisherName>
+     <publisherYear>1964</publisherYear>
+   </publisher>
+    
+   <publisher>
+     <publisherID>40</publisherID>
+     <publisherName>Türkiye İş Bankası Kültür Yayınları</publisherName>
+     <publisherYear>1956</publisherYear>
+   </publisher>
+
+   <publisher>
+     <publisherID>50</publisherID>
+     <publisherName>Destek Yayınları</publisherName>
+     <publisherYear>2006</publisherYear>
+   </publisher>
+    
+   <publisher>
+     <publisherID>60</publisherID>
+     <publisherName>Pmr Yayınları</publisherName>
+     <publisherYear>2000</publisherYear>
+   </publisher>
+    
+   <publisher>
+     <publisherID>70</publisherID>
+     <publisherName>Helikopter</publisherName>
+     <publisherYear>2008</publisherYear>
+   </publisher>
+    
+   <publisher>
+     <publisherID>80</publisherID>
+     <publisherName>Workman Publishing </publisherName>
+     <publisherYear>1968</publisherYear>
+   </publisher>
+    
+   <publisher>
+     <publisherID>90</publisherID>
+     <publisherName>Can Yayınları</publisherName>
+     <publisherYear>1981</publisherYear>
+   </publisher>
+
+   <publisher> 
+     <publisherID>100</publisherID>
+     <publisherName>Everest Yayınları</publisherName>
+     <publisherYear>2000</publisherYear>
+   </publisher> 
+    
+</publishers>
